@@ -1,0 +1,10 @@
+fastapi==0.70.0
+sqlalchemy==1.4.25
+requests==2.26.0
+aiogram==2.14
+starlette==0.14.2
+pydantic==1.8.2
+uvicorn==0.15.0
+passlib==1.7.4
+python-jose==3.3.0
+python-dotenv==0.19.2
